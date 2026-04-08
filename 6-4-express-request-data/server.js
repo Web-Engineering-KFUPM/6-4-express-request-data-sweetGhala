@@ -116,7 +116,6 @@ app.listen(3000, () => {
 });
 
 
-// create express app instance to create web server
 
 
 
@@ -175,6 +174,5 @@ app.get("/users/:userId", (req, res) => {
 });
 
 
-// Start the server by listening
 
 
